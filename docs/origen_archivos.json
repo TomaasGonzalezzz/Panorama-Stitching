@@ -1,0 +1,122 @@
+[
+  {
+    "archive": "garcia_gonzalez_turkie_tp1_pano.zip",
+    "source": "garcia_gonzalez_turkie_tp1_pano/tp1_pano.ipynb",
+    "path": "tp1_pano.ipynb",
+    "sha256": "22163d81d9b598a7c96f53b2066d59504a87157ca50174b238230f2964a11f6a"
+  },
+  {
+    "archive": "garcia_gonzalez_turkie_tp1_pano.zip",
+    "source": "garcia_gonzalez_turkie_tp1_pano/panorama.py",
+    "path": "panorama.py",
+    "sha256": "ff23cbc6fe157578ea9dba190ad1b145d1c3e19166f9bfcdf21d0d486ad4d02b"
+  },
+  {
+    "archive": "garcia_gonzalez_turkie_tp1_pano.zip",
+    "source": "garcia_gonzalez_turkie_tp1_pano/garcia_gonzalez_turkie-tp1-informe.pdf",
+    "path": "docs/informe.pdf",
+    "sha256": "9116358dfc73d3f41d52c01bdc92e33654b9ae9a01c79d224fd3caf9763d72c2"
+  },
+  {
+    "archive": "garcia_gonzalez_turkie_tp1_pano.zip",
+    "source": "garcia_gonzalez_turkie_tp1_pano/inputs/udesa_2.jpg",
+    "path": "inputs/udesa_2.jpg",
+    "sha256": "de3cd5efa75b461e549da2a1690ee1bc722a5cf2bc858e8784b7212a33b476e0"
+  },
+  {
+    "archive": "garcia_gonzalez_turkie_tp1_pano.zip",
+    "source": "garcia_gonzalez_turkie_tp1_pano/inputs/udesa_1.jpg",
+    "path": "inputs/udesa_1.jpg",
+    "sha256": "666e87d1cb662a809aeb3ea5bda28cfe9145890f23dbe658e7fe1e02742db068"
+  },
+  {
+    "archive": "garcia_gonzalez_turkie_tp1_pano.zip",
+    "source": "garcia_gonzalez_turkie_tp1_pano/inputs/udesa_0.jpg",
+    "path": "inputs/udesa_0.jpg",
+    "sha256": "7e3eab4f003196b7089f7d06fc94c287de835364048fdd771ad1fd8a5927551b"
+  },
+  {
+    "archive": "garcia_gonzalez_turkie_tp1_pano.zip",
+    "source": "garcia_gonzalez_turkie_tp1_pano/inputs/cuadro_0.jpg",
+    "path": "inputs/cuadro_0.jpg",
+    "sha256": "6597b505f1a2ff49b15219e1bf384bcaf644124d2d06f9e1dc673fb12c3782d7"
+  },
+  {
+    "archive": "garcia_gonzalez_turkie_tp1_pano.zip",
+    "source": "garcia_gonzalez_turkie_tp1_pano/inputs/cuadro_1.jpg",
+    "path": "inputs/cuadro_1.jpg",
+    "sha256": "326be663a2888676e87e263f85691f8009f37ff57b1f73667aef2cad13b78052"
+  },
+  {
+    "archive": "garcia_gonzalez_turkie_tp1_pano.zip",
+    "source": "garcia_gonzalez_turkie_tp1_pano/inputs/test_2.jpg",
+    "path": "inputs/test_2.jpg",
+    "sha256": "43d3d1804ae3ff368fc52ba61d815c53f2d37dd7f3786bb0241d2cfb9ef05ba9"
+  },
+  {
+    "archive": "garcia_gonzalez_turkie_tp1_pano.zip",
+    "source": "garcia_gonzalez_turkie_tp1_pano/inputs/test_0.jpg",
+    "path": "inputs/test_0.jpg",
+    "sha256": "c5f6c8fda41bae53dac9934d08672e9c3384c713186df387630555e6f3cb05c2"
+  },
+  {
+    "archive": "garcia_gonzalez_turkie_tp1_pano.zip",
+    "source": "garcia_gonzalez_turkie_tp1_pano/inputs/cuadro_2.jpg",
+    "path": "inputs/cuadro_2.jpg",
+    "sha256": "7a451827b1501a40db610bfc3888e7f16ff7a0f0213825bd4c0172af4807651e"
+  },
+  {
+    "archive": "garcia_gonzalez_turkie_tp1_pano.zip",
+    "source": "garcia_gonzalez_turkie_tp1_pano/inputs/test_1.jpg",
+    "path": "inputs/test_1.jpg",
+    "sha256": "102f91606ead18ffb0b88df21e939e1da77183416d9fb540f18a35eb3703cea3"
+  },
+  {
+    "archive": "tp1_panoramica.zip",
+    "source": "tp1_panoramica/Udesa - I308 - TP1 - Panora╠ümica.pdf",
+    "path": "docs/consigna.pdf",
+    "sha256": "46682d7caea2540157127f02dc04cabdc2ab67dc54629c491eb8c9513ce5efd9"
+  },
+  {
+    "archive": "tp1_panoramica.zip",
+    "source": "tp1_panoramica/outputs/cuadro_result.jpg",
+    "path": "referencias/cuadro_result.jpg",
+    "sha256": "40d7b8c4a72855921e24830520b37cd126cac6d6f217a39ecee73573f85e11fb"
+  },
+  {
+    "archive": "tp1_panoramica.zip",
+    "source": "tp1_panoramica/inputs/udesa_2.jpg",
+    "path": "inputs/udesa_2.jpg",
+    "sha256": "de3cd5efa75b461e549da2a1690ee1bc722a5cf2bc858e8784b7212a33b476e0"
+  },
+  {
+    "archive": "tp1_panoramica.zip",
+    "source": "tp1_panoramica/inputs/udesa_1.jpg",
+    "path": "inputs/udesa_1.jpg",
+    "sha256": "666e87d1cb662a809aeb3ea5bda28cfe9145890f23dbe658e7fe1e02742db068"
+  },
+  {
+    "archive": "tp1_panoramica.zip",
+    "source": "tp1_panoramica/inputs/udesa_0.jpg",
+    "path": "inputs/udesa_0.jpg",
+    "sha256": "7e3eab4f003196b7089f7d06fc94c287de835364048fdd771ad1fd8a5927551b"
+  },
+  {
+    "archive": "tp1_panoramica.zip",
+    "source": "tp1_panoramica/inputs/cuadro_0.jpg",
+    "path": "inputs/cuadro_0.jpg",
+    "sha256": "6597b505f1a2ff49b15219e1bf384bcaf644124d2d06f9e1dc673fb12c3782d7"
+  },
+  {
+    "archive": "tp1_panoramica.zip",
+    "source": "tp1_panoramica/inputs/cuadro_1.jpg",
+    "path": "inputs/cuadro_1.jpg",
+    "sha256": "326be663a2888676e87e263f85691f8009f37ff57b1f73667aef2cad13b78052"
+  },
+  {
+    "archive": "tp1_panoramica.zip",
+    "source": "tp1_panoramica/inputs/cuadro_2.jpg",
+    "path": "inputs/cuadro_2.jpg",
+    "sha256": "7a451827b1501a40db610bfc3888e7f16ff7a0f0213825bd4c0172af4807651e"
+  }
+]

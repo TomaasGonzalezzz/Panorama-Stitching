@@ -1,0 +1,7 @@
+# Núcleo usado para verificar panorama.py al publicar el repositorio.
+numpy==2.4.6
+opencv-contrib-python==5.0.0.93
+# Herramientas para visualizar y ejecutar el notebook.
+matplotlib>=3.8,<4
+jupyterlab>=4,<5
+ipykernel>=6,<8

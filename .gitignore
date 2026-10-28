@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+__MACOSX/
+._*
+.env
+.env.*
+.vscode/
+.idea/
+*.zip
