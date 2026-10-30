@@ -7,6 +7,8 @@ Tres fotos superpuestas de una misma escena, una sola panorámica. El trabajo re
 
 [Informe](docs/informe.pdf) · [Notebook liviano](tp1_pano_sin_salidas.ipynb) · [Código](panorama.py)
 
+**Resultado:** panorámicas de tres escenas distintas, con un error de reproyección de entre 0,6 y 1,8 píxeles.
+
 ![Panorámica del campus de UdeSA](resultados/udesa.jpg)
 
 ## Recorrido
@@ -22,6 +24,8 @@ Usamos SIFT para encontrar puntos reconocibles en cada imagen. Como tienden a am
 Emparejamos los descriptores con fuerza bruta, cross-check y el test de Lowe. Aun así quedan coincidencias erróneas, así que estimamos la homografía con RANSAC, implementado con NumPy junto con DLT: en verde, las coincidencias que la homografía explica; en rojo, las descartadas.
 
 ![Inliers y outliers de RANSAC entre la imagen central y la izquierda](docs/img/ransac-inliers.png)
+
+En el cuadro, RANSAC descartó 43 de 94 coincidencias con la imagen izquierda y 40 de 59 con la derecha.
 
 ### 3. Proyectar y mezclar
 
@@ -42,6 +46,10 @@ Probamos tres escenas: un cuadro, el campus de UdeSA y fotos propias.
 El RMSE mide el error de reproyección sobre los inliers, en imágenes reducidas.
 
 ![Panorámica con fotos propias](resultados/test.jpg)
+
+## Conclusión
+
+Detectar puntos es la parte fácil; lo decisivo fue filtrar las coincidencias. Sin RANSAC, casi la mitad de los pares del cuadro habrían arruinado la homografía. Las vistas de la derecha dieron menos inliers en las tres escenas, y aun así el resultado final se mantuvo consistente.
 
 ## Probarlo
 
